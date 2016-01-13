@@ -5,4 +5,8 @@ defmodule Lab01Test do
   test "the truth" do
     assert 1 + 1 == 2
   end
+
+  test "test2" do
+    assert 1 + 3 == 4 
+  end
 end
