@@ -9,4 +9,8 @@ defmodule Lab01Test do
   test "test2" do
     assert 1 + 3 == 4 
   end
+
+  test "test3" do
+    assert 2 + 3 == 5
+  end
 end
